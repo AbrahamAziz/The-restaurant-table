@@ -1,4 +1,2 @@
 # The-restaurant-table
-this code orginzes customes in a manner
-A small restaurant has 10 tables: four tables for 2, three tables for 4 and three tables for 6. Diners arrive in groups; A
-group may consist of any number of persons from 1 to 8.
+This code simulates the most efficient seating combination of customers entering a restaurant utilizing Artificial Intelligence concepts. The base case of the restaurant in this program has 10 tables;  four tables for 2, three tables for 4 and three tables for 6. Also, note that the program assumes all diners arrive together and no new diners are seated with a group at a later time. Finally, note that each group may consist of any number of persons ranging from 1 to 8.
